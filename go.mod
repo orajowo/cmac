@@ -1,3 +1,3 @@
-module github.com/chmike/cmac-go
+module github.com/orajowo/cmac
 
-go 1.17
+go 1.24.4
